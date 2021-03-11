@@ -2,7 +2,7 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	background: url('../images/Background.jpg') no-repeat center center fixed;
+	background: url('../images/multicolored-rainbow-.jpg') no-repeat center center fixed;
 	background-size: cover;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 13px;
@@ -39,7 +39,7 @@ p {
     width: 1000px;
 	height: 100%;
 	display: flex;
-	 flex-direction: column;
+	flex-direction: column;
 }
 
 #headerwrap {    
@@ -55,20 +55,8 @@ p {
 	 
 	
 }
-
-/* header { */
-    /* height: 50px; */
-    /* background:#C1CCBC; */
-    /* border-radius: 10px; */
-    /* border: 1px solid #060606; */
-    /* margin: 5px; */
-	/* color:black; */
-	 
-/* } */
-
-.heightFix{
-	 height:100px;
-}
+ 
+ 
 
  .img{
   width:300px;
