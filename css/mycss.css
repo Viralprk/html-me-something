@@ -14,10 +14,15 @@ p {
 }
 
 
+.mcenter{
+ text-align: center;
+}
+
 .list-item-hd
 {
 	color:#fff;
 	padding: 2px;
+	padding-left:25px;
 }
 .list-item-content {
   padding: 2px;
@@ -68,6 +73,10 @@ p {
  .img{
   width:300px;
   height:300px;
+}
+.img2{
+	  width:640px;
+      height:370px;
 }
 
 #contentwrap {
